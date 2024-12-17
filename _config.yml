@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "axlD / Demo Show"
+title                    : "axld / Demo Works"
 title_separator          : "-"
 name                     : &name "Neil"
 description              : &description "AI+XR=DAMN DOOM"
@@ -21,13 +21,13 @@ repository               : "https://github.com/yaoyutian/yaoyutian.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  avatar           : "hsk.jpg"
+  name             : "Neil"
+  pronouns         : # example: "he/him"  
+  bio              : "Simple Nerd"
   location         : "Shanghai"
   employer         : "BUAA"
-  uri              : # URL
+  uri              : # axld1.com
   email            : "laoyao80ren@gmail.com" 
 
   # Academic websites
